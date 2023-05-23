@@ -19,6 +19,7 @@ Firmware Support
 -
 This board is curently supported by the following firmwares: 
 - [Marlin 2.0 (Bugfix 2.0.9)](hhttps://github.com/MarlinFirmware/Marlin/releases/tag/2.0.9.5)
+
 - [Klipper3D](https://www.klipper3d.org/)
 
 Author
