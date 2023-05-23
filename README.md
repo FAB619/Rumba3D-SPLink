@@ -6,6 +6,11 @@ The "Rumba SpLink" combines the familiar RUMBA board with the "ESP Link" module,
 
 the RUMBA board enables users to control and monitor their 3D printers with ease. It conveys the idea of a smart and efficient link between different components, facilitating a smooth printing experience.
 
+<div align="center"><img src="media/03.jpg" width="100%"></div>
+
+<div align="center"><img src="media/04.jpg" width="100%"></div>
+
+
 Firmware Support
 -
 This board is curently supported by the following firmwares: 
