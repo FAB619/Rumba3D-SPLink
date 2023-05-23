@@ -48,15 +48,16 @@ Assembly, pictures, videos, presentations, description text and other type of me
 
 - Creative-Commons-Attribution-ShareAlike 4.0 International - **[CC BY-SA 4.0](LICENSE_CC_BY_SA_4.0.txt)**
 
+Acknowledgement
+---
+Rumba3D-Splink is a version of the RUMBA 3D Printer control board. Rumba3D-Splink is derived from the Aus3D RUMBA+ design and Rumba32 design, which is an overhauled version of the original RUMBA.
+
+Rumba3D-Splink combines the improved RUMBA+ design with a powerful 32-bit ESP32-WROOVER-IE microcontroller module added for more features.
 
 Note
 -
 This documentation will be continuously improved as soon there are updates and/or improvements on the machine.
 
 # Disclaimer
-
-Rumba3D-Splink is a version of the RUMBA 3D Printer control board. Rumba3D-Splink is derived from the Aus3D RUMBA+ design and Rumba32 design, which is an overhauled version of the original RUMBA.
-
-Rumba3D-Splink combines the improved RUMBA+ design with a powerful 32-bit ESP32-WROOVER-IE microcontroller module added for more features.
 
 This hardware/software is provided "as is", and you use the hardware/software at your own risk. Under no circumstances shall any author be liable for direct, indirect, special, incidental, or consequential damages resulting from the use, misuse, or inability to use this hardware/software, even if the authors have been advised of the possibility of such damages.
