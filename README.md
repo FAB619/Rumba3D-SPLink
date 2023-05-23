@@ -10,12 +10,16 @@ the RUMBA board enables users to control and monitor their 3D printers with ease
 
 <div align="center"><img src="media/04.jpg" width="100%"></div>
 
+Specifications 
+-
+<div align="center"><img src="media/01.jpg" width="100%"></div>
+
 
 Firmware Support
 -
 This board is curently supported by the following firmwares: 
-- Marlin 2.0 (Bugfix 2.0.9)
-- Klipper-FW
+- [Marlin 2.0 (Bugfix 2.0.9)](hhttps://github.com/MarlinFirmware/Marlin/releases/tag/2.0.9.5)
+- [Klipper3D](https://www.klipper3d.org/)
 
 Author
 -
