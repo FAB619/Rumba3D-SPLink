@@ -28,6 +28,7 @@ Author
 
 PCB Board Desinger: 
 - **[Haithem LTIFI](https://www.linkedin.com/in/haythemltifi/)**
+- **[Kais ALILA](http://fabacademy.org/2020/labs/kamplintfort/students/kais-alila/)**
 
 
 License 
