@@ -17,6 +17,15 @@ This board is curently supported by the following firmwares:
 - Marlin 2.0 (Bugfix 2.0.9)
 - Klipper-FW
 
+Author
+-
+**Rumba3D-SpLink** 3D Printer board has been designed and built by **[Fab619 On-Demand-Fabrication](https://fab619.tn/)**
+<div align="center"><img src="media/logo.png" width="50%"></div>
+
+PCB Board Desinger: 
+- **[Haithem LTIFI](https://www.linkedin.com/in/haythemltifi/)**
+
+
 License 
 -
 In keeping with the original RUMBA design, this version of rumba is fully open .
