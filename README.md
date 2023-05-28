@@ -17,6 +17,10 @@ Specifications
 -
 <div align="center"><img src="media/01.jpg" width="100%"></div>
 
+![](https://raw.githubusercontent.com/FAB619/Tiny_Ultor_3D/main/media/TinyUltor%20Assembly%20Guide_June23/01_TinyUltor_AssemblyGuide52.jpg)
+
+![](https://raw.githubusercontent.com/FAB619/Tiny_Ultor_3D/main/media/TinyUltor%20Assembly%20Guide_June23/01_TinyUltor_AssemblyGuide53.jpg)
+
 
 Firmware Support
 -
