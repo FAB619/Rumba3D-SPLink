@@ -5,7 +5,7 @@ The **"Rumba SpLink"** is an innovative and feature-rich 3D printer board that t
 
 The name "Rumba SpLink" perfectly captures the essence of this board. By combining the trusted RUMBA board with the "ESP Link" module, it signifies a smart and efficient link between your printer's components and external devices. The connectivity capabilities offered by the ESP technology allow for easy and convenient control and monitoring of your printer.
 
-With its LCD screen and TFT support, the "Rumba SpLink" provides a clear and intuitive interface for navigating through settings, adjusting parameters, and monitoring print progress. The compatibility with Marlin firmware and Klipper on Raspberry Pi ensures flexibility and adaptability to various software environments, empowering you to customize and optimize your printing workflow.
+With its **LCD** screen and TFT support, the "Rumba SpLink" provides a clear and intuitive interface for navigating through settings, adjusting parameters, and monitoring print progress. The compatibility with Marlin firmware and Klipper on Raspberry Pi ensures flexibility and adaptability to various software environments, empowering you to customize and optimize your printing workflow.
 
 Whether you're a hobbyist or a professional, the "Rumba SpLink" offers a reliable and versatile solution that simplifies the printing process while delivering exceptional results. Experience enhanced connectivity, seamless control, and an intuitive user interface with the "Rumba SpLink" 3D printer board.
 
